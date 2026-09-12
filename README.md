@@ -1,1 +1,1 @@
-# 3rd sem community project
+3rd sem community project
